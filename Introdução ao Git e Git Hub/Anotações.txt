@@ -1,4 +1,4 @@
-Objetos - Git  U+1F497
+Objetos - Git  💗🥰
 
 -> Blobs (os arquivos ficam aqui) -> Trees (armazena as blobs)
 -> Commit = é o objeto que vai juntar tudo. (Geralmente escrevemos uma mensagem explicando o que
