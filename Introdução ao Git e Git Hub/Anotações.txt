@@ -1,0 +1,14 @@
+Objetos - Git
+
+-> Blobs (os arquivos ficam aqui) -> Trees (armazena as blobs)
+-> Commit = é o objeto que vai juntar tudo. (Geralmente escrevemos uma mensagem explicando o que
+foi feito no diretório)
+
+- git init -> Para iniciar um repositório
+- git add -> Para mover arquivos versionados
+- git commit -> Para criar um commit
+- git clone -> para clonar um repositório
+- git push -> para empurrar um repositório do local para o remoto
+- git pull -> para trazer um repositório do remoto para o local e atualizar o projeto
+- git status -> monitora o status dos arquivos
+- git add . -> prepara todos os arquivos para o commit, fica verdinho :)
