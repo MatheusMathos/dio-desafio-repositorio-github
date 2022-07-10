@@ -5,7 +5,7 @@ Objetos - Git  💗🥰
 foi feito no diretório)
 
 - git init -> Para iniciar um repositório
-- git add -> Para mover arquivos versionados
+- git add -> Para mover arquivos versionados (prepara os arquivos)
 - git commit -> Para criar um commit
 - git clone -> para clonar um repositório
 - git push -> para empurrar um repositório do local para o remoto
